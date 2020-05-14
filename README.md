@@ -5,7 +5,7 @@
 
 [Figure 12](https://rmomizo.github.io/C_C/fig12.html) 
 
-[Figure 16](https://rmomizo.github.io/C_C/figure16.html) 
+[Figure 16](https://rmomizo.github.io/C_C/figure17.html) 
 
 [Hiccups Thread Factor Loadings](https://rmomizo.github.io/C_C/hiccups_thread_factor_loadings.csv)
 
