@@ -1,4 +1,5 @@
-## Machining Topoi:
+## Machining Topoi: Tracking Premising in Online Discussion Forums with Automated Rhetorical Move Analysis
+### Ryan M. Omizo
 ### Interactive Figures
 [Figure 11](https://rmomizo.github.io/C_C/fig11.html) 
 
