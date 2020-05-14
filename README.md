@@ -6,3 +6,6 @@
 
 [Figure 15](https://rmomizo.github.io/C_C/figure15.htm) 
 
+[Hiccups Thread Factor Loadings](https://rmomizo.github.io/C_C/hiccups_thread_factor_loadings.csv
+
+[Hiccups Thread Sentence+Faciloscope Tags](https://rmomizo.github.io/C_C/hiccups_thread_sentences_fscope_tags.csv)
