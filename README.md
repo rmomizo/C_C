@@ -7,6 +7,10 @@
 
 [Figure 16](https://rmomizo.github.io/C_C/figure17.html) 
 
+### Docuscope Common Factor Model
+
 [Hiccups Thread Factor Loadings](https://rmomizo.github.io/C_C/hiccups_thread_factor_loadings.csv)
+
+### Faciloscope Results
 
 [Hiccups Thread Sentence+Faciloscope Tags](https://rmomizo.github.io/C_C/hiccups_thread_sentences_fscope_tags.csv)
